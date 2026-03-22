@@ -1,0 +1,54 @@
+state_fips,state_name,air_toxics_year,county_count_in_air_toxics,mean_county_total_cancer_risk_per_million,max_county_total_cancer_risk_per_million,top_county_by_cancer_risk,top_county_cancer_risk_per_million,top_pollutant_statewide,top_pollutant_statewide_total_risk_per_million
+01,Alabama,2019,67,31.1582,36.6,Tuscaloosa,36.6,Formaldehyde,1526.1
+02,Alaska,2019,29,9.9931,38.8,Anchorage,38.8,Formaldehyde,159.4
+04,Arizona,2019,15,17.2267,30.3,Maricopa,30.3,Formaldehyde,171.2
+05,Arkansas,2019,75,27.7267,40.8,Baxter,40.8,Formaldehyde,1464.5
+06,California,2019,58,21.5707,34.8,Sacramento,34.8,Formaldehyde,835.8
+08,Colorado,2019,64,12.2156,26.4,Denver,26.4,Formaldehyde,459.9
+09,Connecticut,2019,8,19.4625,22.6,Fairfield,22.6,Formaldehyde,95.1
+10,Delaware,2019,3,21.8333,25.5,New Castle,25.5,Formaldehyde,40.0
+11,District of Columbia,2019,1,32.9,32.9,District of Columbia,32.9,Formaldehyde,20.2
+12,Florida,2019,67,24.2791,30.8,Leon,30.8,Formaldehyde,1153.0
+13,Georgia,2019,159,30.4805,85.1,Newton,85.1,Formaldehyde,3414.4
+15,Hawaii,2019,5,12.08,15.3,Hawaii,15.3,Formaldehyde,43.4
+16,Idaho,2019,44,13.9136,22.4,Kootenai,22.4,Formaldehyde,375.8
+17,Illinois,2019,102,18.599,25.0,DuPage,25.0,Formaldehyde,1188.9
+18,Indiana,2019,92,18.8348,25.2,Floyd,25.2,Formaldehyde,1085.2
+19,Iowa,2019,99,15.2596,24.8,Polk,24.8,Formaldehyde,889.6
+20,Kansas,2019,105,16.7067,23.5,Wyandotte,23.5,Formaldehyde,1146.7
+21,Kentucky,2019,120,22.7917,27.2,Boyd,27.2,Formaldehyde,1846.1
+22,Louisiana,2019,64,30.8109,59.2,St. John the Baptist,59.2,Formaldehyde,1259.9
+23,Maine,2019,16,15.1375,18.1,Cumberland,18.1,Formaldehyde,137.8
+24,Maryland,2019,24,24.0833,29.7,Prince George's,29.7,Formaldehyde,368.7
+25,Massachusetts,2019,14,18.35,23.7,Suffolk,23.7,Formaldehyde,152.6
+26,Michigan,2019,83,14.3253,19.5,Wayne,19.5,Formaldehyde,679.1
+27,Minnesota,2019,87,15.4448,25.2,Ramsey,25.2,Formaldehyde,740.5
+28,Mississippi,2019,82,28.6927,34.8,Lowndes,34.8,Formaldehyde,1701.0
+29,Missouri,2019,115,20.9357,40.8,Cape Girardeau,40.8,Formaldehyde,1567.3
+30,Montana,2019,56,12.4518,18.9,Flathead,18.9,Formaldehyde,397.8
+31,Nebraska,2019,93,14.2086,33.0,Platte,33.0,Formaldehyde,801.9
+32,Nevada,2019,17,13.3176,28.1,Washoe,28.1,Formaldehyde,140.7
+33,New Hampshire,2019,10,16.9,20.0,Hillsborough,20.0,Formaldehyde,99.6
+34,New Jersey,2019,21,23.8333,30.3,Middlesex,30.3,Formaldehyde,289.8
+35,New Mexico,2019,33,14.0212,26.4,Dona Ana,26.4,Formaldehyde,286.4
+36,New York,2019,62,17.6661,31.0,New York,31.0,Formaldehyde,628.8
+37,North Carolina,2019,100,24.003,31.3,Mecklenburg,31.3,Formaldehyde,1652.2
+38,North Dakota,2019,53,14.0302,26.7,McKenzie,26.7,Formaldehyde,393.4
+39,Ohio,2019,88,19.3273,27.7,Lawrence,27.7,Formaldehyde,1052.0
+40,Oklahoma,2019,77,21.0727,27.3,McCurtain,27.3,Formaldehyde,1094.1
+41,Oregon,2019,36,18.0139,29.7,Multnomah,29.7,Formaldehyde,380.1
+42,Pennsylvania,2019,67,20.8597,32.5,Greene,32.5,Formaldehyde,804.9
+72,Puerto Rico,2019,78,18.1372,54.2,A?asco,54.2,Formaldehyde,984.9
+44,Rhode Island,2019,5,19.76,23.4,Bristol,23.4,Formaldehyde,59.8
+45,South Carolina,2019,46,28.9478,33.1,Spartanburg,33.1,Formaldehyde,945.4
+46,South Dakota,2019,66,12.9091,18.6,Minnehaha,18.6,Formaldehyde,488.9
+47,Tennessee,2019,95,25.3863,36.7,Claiborne,36.7,Formaldehyde,1684.6
+48,Texas,2019,254,21.0504,49.8,Jefferson,49.8,Formaldehyde,3485.0
+49,Utah,2019,29,11.7862,20.2,Salt Lake,20.2,Formaldehyde,204.6
+50,Vermont,2019,14,15.8857,18.9,Chittenden,18.9,Formaldehyde,126.7
+78,Virgin Islands of the US,2019,3,12.8,13.6,St. Thomas,13.6,Formaldehyde,28.4
+51,Virginia,2019,133,25.3323,44.8,Richmond City,44.8,Formaldehyde,2204.7
+53,Washington,2019,39,19.2564,31.2,King,31.2,Formaldehyde,445.4
+54,West Virginia,2019,55,23.6618,36.9,Kanawha,36.9,Formaldehyde,829.6
+55,Wisconsin,2019,72,15.0986,19.3,Milwaukee,19.3,Formaldehyde,610.4
+56,Wyoming,2019,23,11.087,12.7,Laramie,12.7,Formaldehyde,153.6

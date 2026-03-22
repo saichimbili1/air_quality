@@ -1,0 +1,17 @@
+{
+  "heat_rows": 51,
+  "air_toxics_county_pollutant_rows": 22561,
+  "air_toxics_county_summary_rows": 3223,
+  "air_toxics_state_summary_rows": 53,
+  "joined_health_state_rows": 53,
+  "merge_counts": {
+    "final_rows": 1006,
+    "county_health_matches": 979,
+    "state_heat_matches": 990,
+    "state_air_toxics_matches": 1001
+  },
+  "outputs": {
+    "health_out_dir": "/Users/saichimbili/Downloads/air_quality_package/cleaned health data",
+    "extended_final": "/Users/saichimbili/Downloads/air_quality_package/final/final_combined_emissions_aqi_climate_health.csv"
+  }
+}
